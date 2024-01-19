@@ -8,6 +8,7 @@ const main_navigation_str = [
   "Terms & Co.",
   "Contact",
 ];
+
 export const Navigation = () => {
   return (
     <div className="flex font-medium text-xl leading-none flex-row gap-20 text-[rgb(122,126,147)]">
